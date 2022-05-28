@@ -1,0 +1,22 @@
+{
+  "name": "products_cashier",
+  "version": "1.0.0",
+  "description": "elaboration of a cash register that request the quantity of products, their price and show the total sum of their prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "price",
+    "quatity",
+    "sum_total"
+  ],
+  "author": "Thelp",
+  "license": "MIT",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "co-fs": "^1.2.0",
+    "prompt-confirm": "^2.0.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
